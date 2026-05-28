@@ -1,9 +1,9 @@
 # Portfolio Project - AI Tools Setup Documentation
 
 1. Tools Installed
-*Cursor IDE (Windows x64 - User Installer)
-*Claude Code extension
-*Codex extension
+- Cursor IDE (Windows x64 - User Installer)
+- Claude Code extension
+- Codex extension
 
 2. Steps Completed
 My Steps from Scratch:
