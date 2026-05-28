@@ -24,4 +24,4 @@ My Steps from Scratch:
 - Issue 1 (Installer Version Confusion): Initially confused about which architecture version to download from the official Cursor website.
 - Solution: Consulted Gemini AI for technical guidance and successfully proceeded with the Windows (x64) User Installer setup.
 - Issue 2 (Workspace Workflow): Encountered initial confusion regarding how to initialize and create files within the Cursor IDE editor space.
-- Solution: Researched practical setup tutorials on YouTube to learn the interface workflow, successfully creating the README.md`file inside the editor.
+- Solution: Researched practical setup tutorials on YouTube to learn the interface workflow, successfully creating the README.md file inside the editor.
