@@ -18,9 +18,9 @@ Expert List
 * **Brief Annotation:** Explains how to build programmatic content pipelines by feeding complex semantic topical maps into LLMs without losing quality.
 * **Content Date:** June 2026
 * **Platform Link :**
-Website : https://www.holisticseo.digital
-LinkedIn : https://www.linkedin.com/in/koray-tugberk-gubur
-YouTube : https://www.youtube.com/@HolisticSEODigital
+Website : https://www.holisticseo.digital |
+LinkedIn : https://www.linkedin.com/in/koray-tugberk-gubur |
+YouTube : https://www.youtube.com/@HolisticSEODigital |
 
 
 
