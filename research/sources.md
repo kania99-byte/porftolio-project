@@ -1,8 +1,7 @@
-Research Sources — AI-Powered SEO Content Production
+# Research Sources — AI-Powered SEO Content Production
 
 Topic : AI-Powered SEO Content Production  
 Goal : Understand how practitioners build scalable content systems using AI while maintaining search visibility and quality.  
-Last updated : June 2026
 
 Selection Criteria
 Experts were selected based on:
@@ -11,14 +10,14 @@ Experts were selected based on:
 - Diversity of angles : tool builders, agency practitioners, data researchers, and educators
 - Verifiable results or case studies shared publicly
 
-
 Expert List 
-1. Koray Tuğberk Gübür
-Role : Founder & CEO, Holistic SEO & Digital  
-Focus : Semantic SEO, Topical Authority, AI-driven content architecture  
-Core Value : Coined the "Topical Authority" framework now confirmed via Google's API leak. Publishes deep case studies on how LLMs and search engines interpret content structure. One of the most rigorous technical voices in the space.
-
-Platform Link :
+### 1. Koray Tuğberk Gübür
+* **Role :** Founder & CEO, Holistic SEO & Digital  
+* **Focus :** Semantic SEO, Topical Authority, AI-driven content architecture  
+* **Core Value :** Coined the "Topical Authority" framework now confirmed via Google's API leak. Publishes deep case studies on how LLMs and search engines interpret content structure. One of the most rigorous technical voices in the space.
+* **Brief Annotation:** Explains how to build programmatic content pipelines by feeding complex semantic topical maps into LLMs without losing quality.
+* **Content Date:** June 2026
+* **Platform Link :**
 Website : https://www.holisticseo.digital
 LinkedIn : https://www.linkedin.com/in/koray-tugberk-gubur
 YouTube : https://www.youtube.com/@HolisticSEODigital
