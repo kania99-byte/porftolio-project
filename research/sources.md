@@ -4,9 +4,7 @@ Topic : AI-Powered SEO Content Production
 Goal : Understand how practitioners build scalable content systems using AI while maintaining search visibility and quality.  
 Last updated : June 2026
 
-
 Selection Criteria
-
 Experts were selected based on:
 - Active practice (not just commentary)  they run agencies, build tools, or manage real sites
 - Recent output specifically on AI SEO content workflows (2024–2026)
@@ -14,9 +12,7 @@ Experts were selected based on:
 - Verifiable results or case studies shared publicly
 
 
-
-Expert List
-
+Expert List 
 1. Koray Tuğberk Gübür
 Role : Founder & CEO, Holistic SEO & Digital  
 Focus : Semantic SEO, Topical Authority, AI-driven content architecture  
@@ -115,7 +111,7 @@ Twitter/X : https://twitter.com/BritneyMuller
 
 9. Michal Suski
 Role : Co-Founder & Head of Innovation, Surfer SEO  
-Focus : AI content workflows, SERP-based content optimization, scaling content production  
+Focus : AI content workflows, SERP based content optimization, scaling content production  
 Core Value : Builds the tools practitioners actually use. Regularly demos end-to-end AI content production workflows live, including how to go from keyword research to published, optimized content at scale. Insider perspective on what the data shows about AI content performance.
 
 Platform Link :
@@ -128,7 +124,7 @@ YouTube : https://www.youtube.com/@SurferSEO
 10. Nathan Gotch
 Role : Founder, Gotch SEO Academy  
 Focus : AI SEO frameworks, step-by-step content systems, generative search optimization  
-Core Value : Focuses on accessible, actionable AI SEO systems for practitioners at all levels. Known for breaking down complex workflows into repeatable processes — useful for building a content production playbook.
+Core Value : Focuses on accessible, actionable AI SEO systems for practitioners at all levels. Known for breaking down complex workflows into repeatable processes, useful for building a content production playbook.
 
 Platform Link :
 Website : https://www.gotchseo.com
