@@ -14,10 +14,10 @@ Experts were selected based on:
 ### 1. Koray Tuğberk Gübür
 **Role :** Founder & CEO, Holistic SEO & Digital  
 **Focus :** Semantic SEO, Topical Authority, AI-driven content architecture  
-**Core Value :** Coined the "Topical Authority" framework now confirmed via Google's API leak. Publishes deep case studies on how LLMs and search engines interpret content structure. One of the most rigorous technical voices in the space.
-**Brief Annotation:** Explains how to build programmatic content pipelines by feeding complex semantic topical maps into LLMs without losing quality.
-**Content Date:** June 2026
-**Platform Link :**
+**Core Value :** Coined the "Topical Authority" framework now confirmed via Google's API leak. Publishes deep case studies on how LLMs and search engines interpret content structure. One of the most rigorous technical voices in the space.  
+**Brief Annotation:** Explains how to build programmatic content pipelines by feeding complex semantic topical maps into LLMs without losing quality.  
+**Content Date:** June 2026  
+**Platform Link :**  
 Website : https://www.holisticseo.digital  
 LinkedIn : https://www.linkedin.com/in/koray-tugberk-gubur  
 YouTube : https://www.youtube.com/@HolisticSEODigital
@@ -27,28 +27,30 @@ YouTube : https://www.youtube.com/@HolisticSEODigital
 ### 2. Kevin Indig
 **Role :** Independent Growth Advisor (ex-Shopify, Atlassian, Dropbox)  
 **Focus :** AI's impact on organic traffic, "Great Decoupling" of rankings vs revenue  
-**Core Value :** Writes the "Growth Memo" newsletter with data-backed essays on how AI search changes content strategy. Not just theory he runs experiments and shares findings with real numbers.
-**Brief Annotation :** Tracks live volatility of Google's AI Overviews to help businesses structure automated content around real commercial intent.
-**Content Date :** June 10, 2026
-**Platform Link :**
+**Core Value :** Writes the "Growth Memo" newsletter with data-backed essays on how AI search changes content strategy. Not just theory he runs experiments and shares findings with real numbers.  
+**Brief Annotation :** Tracks live volatility of Google's AI Overviews to help businesses structure automated content around real commercial intent.  
+**Content Date :** June 10, 2026  
+**Platform Link :**  
 Newsletter : https://www.kevin-indig.com  
 LinkedIn : https://www.linkedin.com/in/kevinindig  
 Twitter/X : https://twitter.com/kevin_indig  
 
 
+
 ### 3. Lily Ray
 **Role :** VP of SEO Strategy, Amsive Digital  
 **Focus :** E-E-A-T, AI Overviews, algorithm impact on content quality  
-**Core Value :** Her research on AI Overviews and how Google evaluates content authority is among the most cited in the industry. Tracks SERP changes in real time and translates them into actionable content guidance.
-**Brief Annotation :** Analyzes how search engines detect low-effort AI spam, providing a strict quality framework for safe AI generation.
-**Content Date :** June 2026
-**Platform Link :**
+**Core Value :** Her research on AI Overviews and how Google evaluates content authority is among the most cited in the industry. Tracks SERP changes in real time and translates them into actionable content guidance.  
+**Brief Annotation :** Analyzes how search engines detect low-effort AI spam, providing a strict quality framework for safe AI generation.  
+**Content Date :** June 2026  
+**Platform Link :**  
 LinkedIn : https://www.linkedin.com/in/lily-ray-44755615  
 Twitter/X : https://twitter.com/lilyraynyc  
 Amsive Website : https://www.amsive.com/insights  
 
 
-4. Aleyda Solís
+
+### 4. Aleyda Solís
 Role : Founder, Orainti  
 Focus : GEO (Generative Engine Optimization), international SEO, AI-assisted workflows  
 Why : One of the first practitioners to publish structured GEO frameworks. Runs workshops and publishes practical guides on optimizing content for AI-driven search experiences (ChatGPT, Perplexity, AI Overviews).
