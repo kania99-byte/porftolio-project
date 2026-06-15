@@ -10,7 +10,7 @@ Experts were selected based on:
 - Diversity of angles : tool builders, agency practitioners, data researchers, and educators
 - Verifiable results or case studies shared publicly
 
-Expert List 
+## Expert List 
 ### 1. Koray Tuğberk Gübür
 * **Role :** Founder & CEO, Holistic SEO & Digital  
 * **Focus :** Semantic SEO, Topical Authority, AI-driven content architecture  
@@ -18,9 +18,9 @@ Expert List
 * **Brief Annotation:** Explains how to build programmatic content pipelines by feeding complex semantic topical maps into LLMs without losing quality.
 * **Content Date:** June 2026
 * **Platform Link :**
-Website : https://www.holisticseo.digital |
-LinkedIn : https://www.linkedin.com/in/koray-tugberk-gubur |
-YouTube : https://www.youtube.com/@HolisticSEODigital |
+* Website : https://www.holisticseo.digital
+* LinkedIn : https://www.linkedin.com/in/koray-tugberk-gubur
+* YouTube : https://www.youtube.com/@HolisticSEODigital
 
 
 
