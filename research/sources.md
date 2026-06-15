@@ -12,7 +12,7 @@ Experts were selected based on:
 
 ## Expert List 
 ### 1. Koray Tuğberk Gübür
-* **Role :** Founder & CEO, Holistic SEO & Digital  
+**Role :** Founder & CEO, Holistic SEO & Digital  
 * **Focus :** Semantic SEO, Topical Authority, AI-driven content architecture  
 * **Core Value :** Coined the "Topical Authority" framework now confirmed via Google's API leak. Publishes deep case studies on how LLMs and search engines interpret content structure. One of the most rigorous technical voices in the space.
 * **Brief Annotation:** Explains how to build programmatic content pipelines by feeding complex semantic topical maps into LLMs without losing quality.
@@ -24,7 +24,7 @@ Experts were selected based on:
 
 
 
-2. Kevin Indig
+### 2. Kevin Indig
 Role : Independent Growth Advisor (ex-Shopify, Atlassian, Dropbox)  
 Focus : AI's impact on organic traffic, "Great Decoupling" of rankings vs revenue  
 Core Value : Writes the "Growth Memo" newsletter with data-backed essays on how AI search changes content strategy. Not just theory he runs experiments and shares findings with real numbers.
