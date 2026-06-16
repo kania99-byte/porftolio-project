@@ -31,7 +31,7 @@ YouTube : https://www.youtube.com/@HolisticSEODigital
 **Brief Annotation :** Tracks live volatility of Google's AI Overviews to help businesses structure automated content around real commercial intent.  
 **Content Date :** June 10, 2026  
 **Platform Link :**  
-Newsletter : https://www.kevin-indig.com  
+Newsletter : https://growth-memo.com  
 LinkedIn : https://www.linkedin.com/in/kevinindig  
 Twitter/X : https://twitter.com/kevin_indig  
 
