@@ -25,10 +25,10 @@ If you want to get started with generative engine optimization, read our full gu
 
 | Keyword | Value | Change |
 | :--- | :--- | :--- |
-| generative engine optimization | 12,000/mo | +161% YoY |
-| ai visibility | 3,300/mo | +258% YoY |
-| ai search optimization | 4,800/mo | +152% YoY |
-| ai overview optimization | 900/mo | +625% YoY |
+| Generative Engine Optimization | 12,000/mo | +161% YoY |
+| AI visibility | 3,300/mo | +258% YoY |
+| AI search optimization | 4,800/mo | +152% YoY |
+| AI overview optimization | 900/mo | +625% YoY |
 
 ### Further reading
 * Generative Engine Optimization: Growth Strategies and Metrics For the AI Era
@@ -56,10 +56,10 @@ If you want proof this is happening, look at the tools: an entire category of th
 
 | Keyword | Value | Change |
 | :--- | :--- | :--- |
-| ai brand mentions | 1,100/mo | new (Jun 2025) |
-| ai citation tracking | 500/mo | new (Jun 2025) |
-| ai mention tracking | 400/mo | from ~zero |
-| brand mentions in ai | 350/mo | from ~zero |
+| AI brand mentions | 1,100/mo | new (Jun 2025) |
+| AI citation tracking | 500/mo | new (Jun 2025) |
+| AI mention tracking | 400/mo | from ~zero |
+| Brand mentions in AI | 350/mo | from ~zero |
 
 ### Further reading
 * How AI Search Engines Work
@@ -85,10 +85,10 @@ Monthly US search volume for “agentic commerce.”
 
 | Keyword | Value | Change |
 | :--- | :--- | :--- |
-| agentic commerce | 5,600/mo | +464% YoY |
-| agentic ai tools | 2,100/mo | +309% YoY |
-| ai agents for marketing | 1,000/mo | +145% YoY |
-| agentic ai (parent) | 101,000/mo | +45% YoY |
+| Agentic commerce | 5,600/mo | +464% YoY |
+| Agentic AI tools | 2,100/mo | +309% YoY |
+| AI agents for marketing | 1,000/mo | +145% YoY |
+| Agentic AI (parent) | 101,000/mo | +45% YoY |
 
 ### Further reading
 * Agentic AI vs. Generative AI: What’s the Difference, and Why Does It Matter?
@@ -111,10 +111,10 @@ Monthly US search volume for “vibe coding,” showing the 2025 vertical climb.
 
 | Keyword | Value | Change |
 | :--- | :--- | :--- |
-| vibe coding | 84,000/mo | +17% YoY |
-| windsurf ai | 17,000/mo | +77% YoY |
-| lovable ai | 44,000/mo | +56% YoY |
-| vibe marketing | 800/mo | +15% YoY |
+| Vibe Coding | 84,000/mo | +17% YoY |
+| Windsurf AI | 17,000/mo | +77% YoY |
+| Lovable AI | 44,000/mo | +56% YoY |
+| Vibe Marketing | 800/mo | +15% YoY |
 
 ### Further reading
 * 9 Vibe Coding Examples: AI Apps You Can Use Right Now to Grow Your Website
@@ -169,8 +169,8 @@ Monthly US search volume for “AI slop.”
 
 | Keyword | Value | Change |
 | :--- | :--- | :--- |
-| ai slop | 28,000/mo | +115% YoY |
-| ai detection | 84,000/mo | +17% YoY |
+| AI slop | 28,000/mo | +115% YoY |
+| AI detection | 84,000/mo | +17% YoY |
 
 ### Further reading
 * 74% of New Webpages Include AI Content (Study of 900k Pages)
@@ -201,7 +201,7 @@ Monthly US search volume for “google ai overviews.”
 | zero-click searches (SparkToro) | 45% → 68% | 2016 → 2026 |
 | AI Overviews CTR impact | −34.5% → −58% | position-1, Ahrefs |
 | ChatGPT vs Google CTR | 96% lower | Ahrefs research |
-| google ai overviews (keyword) | 1,100/mo | +111% YoY |
+| Google AI overviews (keyword) | 1,100/mo | +111% YoY |
 
 ### Further reading
 * Update: AI Overviews Reduce Clicks by 58%
@@ -225,10 +225,10 @@ Monthly US search volume for “ai layoffs.”
 
 | Keyword | Value | Change |
 | :--- | :--- | :--- |
-| tech layoffs | 20,000/mo | steady demand |
-| ai layoffs | 2,400/mo | +17% YoY |
-| ai job cuts | 300/mo | +82% YoY |
-| ai taking jobs | 2,800/mo | +15% YoY |
+| Tech layoffs | 20,000/mo | steady demand |
+| AI layoffs | 2,400/mo | +17% YoY |
+| AI job cuts | 300/mo | +82% YoY |
+| AI taking jobs | 2,800/mo | +15% YoY |
 
 ### Further reading
 * How to Level-up From SEO Tactician to Search Visibility Leader
@@ -251,6 +251,6 @@ Monthly US search volume for “content engineering.”
 
 | Keyword | Value | Change |
 | :--- | :--- | :--- |
-| content engineering | 250/mo | +8% YoY |
-| content operations | 600/mo | +9% YoY |
-| content engineer | 150/mo | +9% YoY |
+| Content Engineering | 250/mo | +8% YoY |
+| Content Operations | 600/mo | +9% YoY |
+| Content Engineer | 150/mo | +9% YoY |
