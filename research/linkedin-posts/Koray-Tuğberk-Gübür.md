@@ -1,11 +1,6 @@
-# LinkedIn Posts — Koray Tuğberk Gübür
+# Query Deserves a Page (QDP)
 
-**Profile:** https://tr.linkedin.com/in/koray-tugberk-gubur  
-**Expert Focus:** Semantic SEO, Topical Authority, AI-driven content architecture  
-
----
-
-## Query Deserves a Page (QDP)
+--- 
 
 **Date:** 25 February 2026  
 **URL:** https://www.linkedin.com/pulse/query-deserves-page-qdp-koray-tuğberk-gübür-0xbtf  
