@@ -22,16 +22,16 @@ My Steps from Scratch:
 
 ---
 
-## Day 1: AI Powered SEO Content Production Research
+## AI Powered SEO Content Production Research
 
 This section documents the structured research phase focusing on how modern practitioners build scalable content systems using AI while maintaining organic visibility and search quality.
 
 ### 1. What Was Collected
 The research artifacts have been systematically curated and organized inside the `/research/` directory with the following structure:
 * **`sources.md`** : The master directory tracking 10 SEO industry experts, including verified platform links (Website, LinkedIn, YouTube), recent content dates, and deep annotations of their frameworks.
-* **`/linkedin-posts/`** : Organic insights and actionable text snippets scraped from practitioner feeds (e.g., Nathan Gotch's breakdown about SEO vs GEO).
-* **`/youtube-transcripts/`** : Structured transcript summaries pulled via API methods (e.g., Koray Tuğberk Gübür's programmatic semantic workflows).
-* **`/other/`** : Highly credible and trusted articles published directly by the experts, detailing advanced frameworks and optimization methodologies (e.g., Aleyda Solís's strategic guide on building a defensible AI Search Prompt Library).
+* **`research/linkedin-posts/`** : Organic insights and actionable text snippets scraped from practitioner feeds (e.g., Nathan Gotch's breakdown about SEO vs GEO).
+* **`research/youtube-transcripts/`** : Structured transcript summaries pulled via API methods (e.g., Koray Tuğberk Gübür's programmatic semantic workflows).
+* **`research/other/`** : Highly credible and trusted articles published directly by the experts, detailing advanced frameworks and optimization methodologies (e.g., Aleyda Solís's strategic guide on building a defensible AI Search Prompt Library).
 
 
 ### 2. Expert Selection Breakdown (Why Each Expert Was Chosen)
