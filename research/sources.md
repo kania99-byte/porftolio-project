@@ -135,6 +135,6 @@ YouTube : https://www.youtube.com/@SurferSEO
 **Brief Annotation :** Provides actionable playbooks to train junior content teams on executing and quality-controlling scaled AI content pipelines.  
 **Content Date :** June 11, 2026  
 **Platform Link :**  
-Website : https://www.gotchseo.com  
+Website : https://www.rankability.com  
 LinkedIn : https://www.linkedin.com/in/nathangotch   
 YouTube : https://www.youtube.com/@NathanGotch   
